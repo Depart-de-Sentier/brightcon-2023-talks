@@ -8,10 +8,10 @@ Talks should include:
 
 * A Jupyter notebook or similar interactive media.
 * A license file, or a readme referring to the license, if different than https://github.com/Depart-de-Sentier/brightcon-2023-talks/blob/main/LICENSE.
-* A environment file (pipenv/poetry/conda/pip/whatever), and installation instructions if necessary. You can also list installation instructions in a readme file.
+* An environment file (pipenv/poetry/conda/pip/whatever), and installation instructions if necessary. You can also list installation instructions in a readme file.
 
 Sessions should include:
 
 * All session material
 * A license file, or a readme referring to the license, if different than https://github.com/Depart-de-Sentier/brightcon-2023-talks/blob/main/LICENSE.
-* A environment file (pipenv/poetry/conda/pip/whatever), and installation instructions, if necessary.
+* An environment file (pipenv/poetry/conda/pip/whatever), and installation instructions, if necessary.
