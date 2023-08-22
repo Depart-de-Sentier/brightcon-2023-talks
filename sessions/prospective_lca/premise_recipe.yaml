@@ -1,0 +1,13 @@
+# in your terminal, run: conda env create -f premise_recipe.yaml
+
+name: premise_env
+channels:
+  - romainsacchi
+  - defaults
+dependencies:
+  - python=3.10
+  - premise
+  - jupyterlab
+  - matplotlib
+  - eidl
+  - unfold
