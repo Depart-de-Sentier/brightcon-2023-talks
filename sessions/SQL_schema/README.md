@@ -29,3 +29,7 @@ For those of you who do not want to join a group and want to explore the tool th
 
 Install the package from Github: 1. Play around with the app 2. Go through the Jupyter notebooks. Think about the following questions: Is the workflow intuitive? Does it work for you, any errors? How can this workflow be integrated in your or your teams project routine.
 
+You can find the two notebooks in this repository:
+1. Install `bw2extdb` (see instructions on https://github.com/Blowgren/bw2extdb/tree/main
+2. Go through the `export_routine.ipynb` notebook
+3. Go through the `import_routine.ipynb` notebook
