@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Output directory
+talks/pyecospold_and_pyilcd/out/
