@@ -14,7 +14,7 @@ Premise:
 
 Brightway 2.5
 
-    sudo conda create -n bw25 -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel
+    sudo conda create -n bw25 -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel ipycytoscape
 
 # nbgitpuller
 
