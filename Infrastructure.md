@@ -8,6 +8,8 @@ Remove an environment:
 
     sudo conda remove --name <name> --all
 
+It is much easier to just nuke environments than adding packages to them.
+
 Premise:
 
     sudo conda create -n premise -c conda-forge -c cmutel -c romainsacchi premise"==2023.09.11" brightway2"==2.4.3" ipykernel
