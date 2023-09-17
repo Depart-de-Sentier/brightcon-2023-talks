@@ -14,9 +14,16 @@ Premise:
 
     sudo conda create -n premise -c conda-forge -c cmutel -c romainsacchi premise"==2023.09.11" brightway2"==2.4.3" ipykernel
 
-Brightway 2.5
+Conference
 
-    sudo conda create -n bw25 -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel ipycytoscape
+    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel ipycytoscape plotly pandas
+
+## libmamba
+
+Make mamba the default solver for conda package management:
+
+    sudo conda update conda
+    conda install -n base conda-libmamba-solver
 
 # nbgitpuller
 
