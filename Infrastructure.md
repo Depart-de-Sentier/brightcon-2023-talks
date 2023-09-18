@@ -6,6 +6,10 @@
 
 # Environments
 
+Make conda work online:
+
+    source /opt/tljh/user/etc/profile.d/conda.sh
+
 Make environments available:
 
     sudo conda install nb_conda_kernels
@@ -35,6 +39,11 @@ pyecospold
 Premise:
 
     sudo conda create -n premise -c conda-forge -c cmutel -c romainsacchi premise"==2023.09.11" brightway2"==2.4.3" ipykernel
+
+bw2extdb
+
+    sudo conda create -n bw2extdb -c conda-forge -c cmutel -c romainsacchi brightway2 ipykernel pip sqlmodel psycopg2-binary streamlit
+
 
 ## libmamba
 
