@@ -42,8 +42,12 @@ Premise:
 
 bw2extdb
 
-    sudo conda create -n bw2extdb -c conda-forge -c cmutel -c romainsacchi brightway2 ipykernel pip sqlmodel psycopg2-binary streamlit
+    sudo conda create -n bw2extdb -c conda-forge -c cmutel brightway2 ipykernel pip sqlmodel psycopg2-binary streamlit
+    sudo pip install git+https://github.com/Blowgren/bw2extdb@main
 
+llm
+
+    sudo conda create -n llm -c conda-forge ipykernel langchain"==0.0.288" openai"==0.28.0" pandas tiktoken matplotlib tqdm chromadb"==0.4.10"
 
 ## libmamba
 
