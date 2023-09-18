@@ -8,7 +8,7 @@ Talks and materials from Brightcon 2023.
 * Visualization contest results >> **NO MATERIAL**
 * Using the GTDR Database >> `talks/UsingGTDR`
 * Brightway in the Browser & Brightway Documentation >> `sessions/brightway_documentation`
-* Cycling from data island to island >> **TBD**
+* Cycling from data island to island >> `talks/cycling_randonneur`
 * Discussion on benefits and limits of openness >> **NO MATERIAL**
 * Prioritizing Brightway development >> **TBD**
 
