@@ -22,7 +22,7 @@ It is much easier to just nuke environments than adding packages to them.
 
 Conference
 
-    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data">=4.0.dev29" ipykernel ipycytoscape nbformat plotly matplotlib pandas jupyterlab-plotly-extension
+    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data">=4.0.dev28" ipykernel ipycytoscape nbformat plotly matplotlib pandas jupyterlab-plotly-extension
 
 **Note**: The `ipycytoscape` library also has to be installed in base conda environment or you get Javascript nightmares.
 
