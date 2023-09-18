@@ -39,6 +39,7 @@ pyecospold
 Premise:
 
     sudo conda create -n premise -c conda-forge -c cmutel -c romainsacchi premise"==2023.09.11" brightway2"==2.4.3" ipykernel
+    sudo chmod +777 /opt/tljh/user/envs/premise/lib/python3.11/site-packages/premise/data/
 
 bw2extdb
 
