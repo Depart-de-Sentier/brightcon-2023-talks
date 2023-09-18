@@ -61,10 +61,15 @@ password: Brightcon2023_usecase
 ### Group 4: Individual testing
 For those of you who do not want to join a group and want to explore the tool themselves. Especially for the online attendees.
 
-Two options:
-1. Go through the two notebooks in this repo
-2. Install `bw2extdb` (see instructions on https://github.com/Blowgren/bw2extdb/tree/main) and play around with the app.
+Install the package from Github and then either: 
+1. Play around with the app 
+2. Go through the Jupyter notebooks. 
 
 Open the forms: https://forms.gle/xm9BPv3SmUjfkTiC9 which gives you some guiding feedback questions.
+
+You can find the two notebooks in this repository
+1. Install `bw2extdb` (see instructions on https://github.com/Blowgren/bw2extdb/tree/main)
+2. Go through the `export_routine.ipynb` notebook in this directory
+3. Go through the `import_routine.ipynb` notebook in this directory
 
 
