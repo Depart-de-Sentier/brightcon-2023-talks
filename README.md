@@ -14,7 +14,7 @@ Talks and materials from Brightcon 2023.
 
 ## Tuesday
 
-* Leveraging Large Language Models and Vector Databases for Exploring Life Cycle Inventory Databases >> **TBD**
+* Leveraging Large Language Models and Vector Databases for Exploring Life Cycle Inventory Databases >> `talks/llm_tuesday_9_15am`
 * Presentation of the EOS-Platform from Eaternity >> `talks/AYCE`
 * A more strict SQL schema for Brightway >> `sessions/SQL_schema`
 * Course on prospective LCA >> `sessions/prospective_lca`
