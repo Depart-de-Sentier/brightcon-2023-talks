@@ -15,8 +15,13 @@ This new tool is available on github: https://github.com/Blowgren/bw2extdb/tree/
 
 ## Group work tasks:
 ### Group 1: Schema
-Discuss the nomenclature of the database: 
+Discuss the nomenclature of the database uising the Miro board: 
 What information should be captured? What variables are needed, and which are optional? What information is missing? 
+**Please use the Miro board and the instructions there**
+
+#### In person group
+Miro board link: https://miro.com/app/board/uXjVMkL72Iw=/?share_link_id=73845247786
+password: Brightcon2023
 
 ### Group 2: Ontology
 What would the next steps be towards a standardized explicit ontology and vocabulary? Sketch a knowledge graph of the information which is important to you.
