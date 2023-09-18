@@ -6,6 +6,10 @@
 
 # Environments
 
+Make environments available:
+
+    sudo conda install nb_conda_kernels
+
 List environments:
 
     conda info --envs
@@ -18,9 +22,11 @@ It is much easier to just nuke environments than adding packages to them.
 
 Conference
 
-    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel ipycytoscape
+    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev27" ipykernel ipycytoscape nbformat
 
 **Note**: The `ipycytoscape` library also has to be installed in base conda environment or you get Javascript nightmares.
+
+    sudo conda install ipycytoscape
 
 Premise:
 
@@ -28,14 +34,15 @@ Premise:
 
 Conference
 
-    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev21" ipykernel ipycytoscape plotly pandas
+    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev27" ipykernel ipycytoscape plotly pandas
 
 ## libmamba
 
 Make mamba the default solver for conda package management:
 
     sudo conda update conda
-    conda install -n base conda-libmamba-solver
+    sudo conda install -n base conda-libmamba-solver
+    sudo conda config --set solver libmamba
 
 # nbgitpuller
 
