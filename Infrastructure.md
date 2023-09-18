@@ -28,13 +28,13 @@ Conference
 
     sudo conda install ipycytoscape
 
+pyecospold
+
+    sudo conda create -n pyecospold -c conda-forge -c cmutel ipykernel pyecospold pyilcd
+
 Premise:
 
     sudo conda create -n premise -c conda-forge -c cmutel -c romainsacchi premise"==2023.09.11" brightway2"==2.4.3" ipykernel
-
-Conference
-
-    sudo conda create -n conference -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev27" ipykernel ipycytoscape plotly pandas
 
 ## libmamba
 
