@@ -21,20 +21,53 @@ What information should be captured? What variables are needed, and which are op
 
 #### In person group
 Miro board link: https://miro.com/app/board/uXjVMkL72Iw=/?share_link_id=73845247786
+<br>
+password: Brightcon2023
+
+#### Online group
+Miro board link https://miro.com/app/board/uXjVMkM13RI=/?share_link_id=292519189831
+<br>
 password: Brightcon2023
 
 ### Group 2: Ontology
 What would the next steps be towards a standardized explicit ontology and vocabulary? Sketch a knowledge graph of the information which is important to you.
+**Please use the Miro board and the instructions there**
+
+#### In person group
+Miro board link: https://miro.com/app/board/uXjVMkM13bU=/?share_link_id=927420793507
+<br>
+password: Brightcon2023_ontology
+
+#### Online group
+Miro board link: https://miro.com/app/board/uXjVMkM10l4=/?share_link_id=142883491636
+<br>
+password: Brightcon2023_ontology
 
 ### Group 3: Use cases
 E.g., For those who see a direct use. Discussing practical use cases, what challenges do you see? what variations do you need? how can the program remain generalizable?
 
+**Please use the Miro board and the instructions there**
+
+#### In person group
+Miro board link: https://miro.com/app/board/uXjVMkM10nc=/?share_link_id=240594009249
+<br>
+password: Brightcon2023_usecase
+
+#### Online group
+Miro board link: https://miro.com/app/board/uXjVMkM10vo=/?share_link_id=848119195138
+<br>
+password: Brightcon2023_usecase
+
 ### Group 4: Individual testing
 For those of you who do not want to join a group and want to explore the tool themselves. Especially for the online attendees.
 
-Install the package from Github: 1. Play around with the app 2. Go through the Jupyter notebooks. Think about the following questions: Is the workflow intuitive? Does it work for you, any errors? How can this workflow be integrated in your or your teams project routine.
+Install the package from Github and then either: 
+1. Play around with the app 
+2. Go through the Jupyter notebooks. 
+
+Think about the following questions: Is the workflow intuitive? Does it work for you, any errors? How can this workflow be integrated in your or your teams project routine.
 
 You can find the two notebooks in this repository:
 1. Install `bw2extdb` (see instructions on https://github.com/Blowgren/bw2extdb/tree/main
-2. Go through the `export_routine.ipynb` notebook
-3. Go through the `import_routine.ipynb` notebook
+2. Go through the `export_routine.ipynb` notebook in this directory
+3. Go through the `import_routine.ipynb` notebook in this directory
