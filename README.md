@@ -10,7 +10,7 @@ Talks and materials from Brightcon 2023.
 * Brightway in the Browser & Brightway Documentation >> `sessions/brightway_documentation`
 * Cycling from data island to island >> `talks/cycling_randonneur`
 * Discussion on benefits and limits of openness >> **NO MATERIAL**
-* Prioritizing Brightway development >> **TBD**
+* Prioritizing Brightway development >> On HyHyve virtual conference page
 
 ## Tuesday
 
