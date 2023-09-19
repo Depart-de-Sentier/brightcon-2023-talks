@@ -19,7 +19,7 @@ Talks and materials from Brightcon 2023.
 * A more strict SQL schema for Brightway >> `sessions/SQL_schema`
 * Course on prospective LCA >> `sessions/prospective_lca`
 * pyecospold and pyilcd >> `talks/pyecospold_and_pyilcd`
-* Adapting bw_processing to Parquet >> **TBD**
+* Adapting bw_processing to Parquet >> `talks/parquet`
 * ILCD Importer for bw2io >> `talks/ilcd_importer`
 * "Help, I neeed somebody" breakout session >> **NO MATERIAL**
 
