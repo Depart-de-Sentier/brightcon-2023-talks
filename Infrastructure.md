@@ -51,6 +51,12 @@ llm
 
     sudo conda create -n llm -c conda-forge ipykernel langchain"==0.0.288" openai"==0.28.0" pandas tiktoken matplotlib tqdm chromadb"==0.4.10"
 
+ilcdimporter
+
+    sudo conda create -n ilcdimporter -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev18" ipykernel pip
+    conda activate ilcdimporter
+    sudo pip install git+https://github.com/mfastudillo/brightway2-io.git@main --no-deps
+
 ## libmamba
 
 Make mamba the default solver for conda package management:
