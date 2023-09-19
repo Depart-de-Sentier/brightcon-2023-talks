@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "brightcon2023llmtalk"
+version = "0.1.0"
+description = ""
+authors = ["Selim Youssry <selim@sapiologie.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11.0,<3.13"
+jupyterlab = "^4.0.5"
+tqdm = "^4.66.1"
+pydantic = "^2.3.0"
+openai = "^0.28.0"
+pandas = "^2.1.0"
+numpy = "^1.26.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
