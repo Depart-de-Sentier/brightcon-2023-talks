@@ -26,5 +26,6 @@ Talks and materials from Brightcon 2023.
 ## Wednesday
 
 * Current and future developments of the Activity Browser >> **NO MATERIAL**
-* Matchbox: Matching mismatched databases by Chris MUTEL >> **NO MATERIAL**
+* [Matchbox](https://github.com/cauldron/bw_matchbox): Matching mismatched databases by Chris MUTEL >> **NO MATERIAL**
+* The ecoinvent glossary >> **NO MATERIAL**
 * Practical Life Cycle Sustainability Assessment >> `sessions/social_footprint`
