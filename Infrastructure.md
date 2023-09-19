@@ -43,7 +43,7 @@ Premise:
 
 bw2extdb
 
-    sudo conda create -n bw2extdb -c conda-forge -c cmutel brightway2 ipykernel pip sqlmodel psycopg2-binary streamlit bw2io=="0.8.10"
+    sudo conda create -n bw2extdb -c conda-forge -c cmutel brightway2 ipykernel pip sqlmodel psycopg2-binary streamlit
     conda activate bw2extdb
     sudo pip install git+https://github.com/Blowgren/bw2extdb@main --no-deps
 
