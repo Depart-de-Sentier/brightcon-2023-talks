@@ -53,7 +53,7 @@ llm
 
 ilcdimporter
 
-    sudo conda create -n ilcdimporter -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev18" ipykernel pip
+    sudo conda create -n ilcdimporter -c conda-forge -c cmutel brightway25 bw2data"==4.0.dev18" ipykernel pip jinja2
     conda activate ilcdimporter
     sudo pip install git+https://github.com/mfastudillo/brightway2-io.git@main --no-deps
 

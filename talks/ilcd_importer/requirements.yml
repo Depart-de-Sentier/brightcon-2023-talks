@@ -6,6 +6,7 @@ channels:
 dependencies:
   - bw2data == 4.0.DEV18
   - bw2calc >= 2.0.DEV13
+  - jinja2
   - jupyterlab
   - pip
   - pip:
