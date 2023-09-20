@@ -57,6 +57,10 @@ ilcdimporter
     conda activate ilcdimporter
     sudo pip install git+https://github.com/mfastudillo/brightway2-io.git@main --no-deps
 
+social
+
+    sudo conda create -n social -c conda-forge ipykernel numpy pandas"==1.5.3" matplotlib openpyxl
+
 ## libmamba
 
 Make mamba the default solver for conda package management:
