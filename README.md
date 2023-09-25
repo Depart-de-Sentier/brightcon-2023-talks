@@ -4,7 +4,7 @@ Talks and materials from Brightcon 2023.
 
 ## Monday
 
-* What would an opensource database for MFA look like? >> **NO MATERIAL**
+* What would an opensource database for MFA look like? >> `sessions/open_source_MFA`
 * Visualization contest results >> **NO MATERIAL**
 * Using the GTDR Database >> `talks/UsingGTDR`
 * Brightway in the Browser & Brightway Documentation >> `sessions/brightway_documentation`
